@@ -1,5 +1,5 @@
 # ICASSP_FRWL
- Fast Spectral Clustering based on RandomWalk Laplacian (FRWL) Large Scale Clustering - ICASSP 2020
+ Fast Spectral Clustering based on RandomWalk Laplacian (FRWL) for Large Scale Clustering - ICASSP 2020
 
 Reference:
 
